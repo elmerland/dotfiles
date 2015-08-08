@@ -12,6 +12,7 @@ Plugin 'gmarik/Vundle.vim'
 
 " Add other plugins here
 
+Plugin 'sjl/gundo.vim'
 
 " All of your plugins must be added before the following line
 call vundle#end()
